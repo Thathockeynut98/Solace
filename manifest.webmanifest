@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "SOLACE — Your Story, In Every Shade",
+  "short_name": "SOLACE",
+  "description": "Your personal journaling sanctuary",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0920",
+  "theme_color": "#0b0920",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
